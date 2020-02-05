@@ -66,3 +66,6 @@ gem 'devise'
 
 gem 'refile', require: 'refile/rails', github: 'manfe/refile'
 gem 'refile-mini_magick'
+
+#ページング機能用
+gem 'kaminari','~> 1.1.1'
